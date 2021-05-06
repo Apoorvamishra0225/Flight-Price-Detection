@@ -1,4 +1,5 @@
-# Flight-price-prediction
+# License Plate Recognization and detection
 
-Predict the price of the flight based on the dates,airlines,destination and stops.
+Detection of license plate using openCV and OCR.
+
  
